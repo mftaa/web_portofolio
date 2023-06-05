@@ -17,7 +17,7 @@ const About = () => {
               <p>Hi. I'm Mifta, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>I am a high school student studying software engineering . now, i'm doing an internship at a pt in south jakarta, the name is Bda. this is one of my portfolio, which is making a website. thank you hopefully enjoy!</p>  
+              <p>I am a staff IT , working in a cooperative, handling all things tech, from coding to hardware troubleshooting. thank you hopefully enjoy!</p>  
             </div>
           </div>
       </div>

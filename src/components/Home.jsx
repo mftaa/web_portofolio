@@ -16,10 +16,10 @@ const Home = () => {
         </h1>
     
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
-          I'm a Student
+          I'm a Staff it
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
-          I'm a student that Study Programmer and this is my simple portofolio, Hope you enjoy it!
+          I'm a staff it who work in small companies
         </p>
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-yellow-400 hover:border-amber-600'>
